@@ -132,7 +132,7 @@ int popd(int top_value, char s_dirs[MAXCOM][MAXLINE]) {
 void printHelp() {
 
     printf("------------------------------------------------------\n");
-    printf("This is a simple shell program written by Magdalena Mozgawa (s389479) for homework. No warranty is given.\n");
+    printf("This is a simple shell program written by Magdalena Mozgawa for homework. No warranty is given.\n");
     printf("It provides the following functionalities:\n");
     printf("  cd [ARG]               changes the active directory\n");
     printf("  exit [STATUS NO]       exits the shell; the argument is optional\n");
